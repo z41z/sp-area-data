@@ -1,16 +1,10 @@
 /*
-Navicat MySQL Data Transfer
-
 Source Server         : 127.0.0.1
 Source Server Version : 50617
-Source Host           : 127.0.0.1:3306
-Source Database       : test
 
 Target Server Type    : MYSQL
 Target Server Version : 50617
 File Encoding         : 65001
-
-Date: 2018-11-13 20:43:12
 */
 
 SET FOREIGN_KEY_CHECKS=0;
